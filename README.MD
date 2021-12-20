@@ -4,16 +4,16 @@ Furniture Classification
 The material you are going to find in this repository is part of my Machine Learning Nanodegree Capstore project. Use it just for research/study, feel free to contact me if you are having any trouble by running the python notebooks. Below, there's a briefly explanation regarding each notebooks present in this project:
 ---
 
-* FC - Transfer Learning.ipynb
+* [FC - Transfer Learning.ipynb](https://github.com/sancharika/Capstone-Project/blob/main/FC%20-%20Transfer%20Learning.ipynb)
 It's the model that uses a pre-trained model.
 
-* FC - Vanilla.ipynb
+* [FC - Vanilla.ipynb](https://github.com/sancharika/Capstone-Project/blob/main/FC%20-%20Vanilla.ipynb)
 It's the vanilla model built and trained from scratch.
 
-* Evaluation.ipynb
+* [Evaluation.ipynb](https://github.com/sancharika/Capstone-Project/blob/main/Evaluation.ipynb)
 It's an auxiliary notebook that uses the transfer learning based model and use it to classify images from internet.
 
-* T-SNE Visualization.ipynb
+* [T-SNE Visualization.ipynb](https://github.com/sancharika/Capstone-Project/blob/main/T-SNE%20Visualization.ipynb)
 t-SNE visualization.
 
 
